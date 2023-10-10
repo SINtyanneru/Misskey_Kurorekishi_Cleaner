@@ -1,0 +1,6 @@
+{
+	"files.associations": {
+		"*.embeddedhtml": "html",
+		"curl.h": "c"
+	}
+}
