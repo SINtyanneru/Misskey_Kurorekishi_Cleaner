@@ -6,7 +6,7 @@
 int main(){
 	HTTPS_REQUEST();
 
-	JSON_PARSE();
+	JSON_PARSE("{\"name\": \"John\", \"age\": 30, \"city\": \"New York\"}");
 
 	return 0;
 }
